@@ -3,6 +3,10 @@
 ## Overview
 This project focuses on creating an audio recognition application in Java using Android Studio. The app utilizes ACR Cloud for audio recognition and implements various signal processing techniques with the help of the Apache Commons library.
 
+## Screenshots
+
+![audio-detective-pictures](https://github.com/Jeru02/Audio-Detective/assets/129445806/200d6cc2-55ff-4f7f-825f-1086ce1f755d)
+
 ## Features
 Audio Recognition: Identify and process audio clips using ACR Cloud's powerful recognition capabilities.
 Signal Processing: Explore and apply advanced signal processing techniques using the Apache Commons Math library.
