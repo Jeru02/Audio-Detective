@@ -1,7 +1,7 @@
 Audio Recognition App
 
 Overview
-This project is a final year Computer Science endeavor at XYZ University, focused on creating an audio recognition application in Java using Android Studio. The app utilizes ACR Cloud for audio recognition and implements various signal processing techniques with the help of the Apache Commons library.
+This project is a final year Computer Science project, focused on creating an audio recognition application in Java using Android Studio. The app utilizes ACR Cloud for audio recognition and implements various signal processing techniques with the help of the Apache Commons library.
 
 Features
 Audio Recognition: Identify and process audio clips using ACR Cloud's powerful recognition capabilities.
